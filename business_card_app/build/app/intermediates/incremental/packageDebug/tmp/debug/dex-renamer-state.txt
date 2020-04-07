@@ -1,0 +1,4 @@
+#Mon Apr 06 18:06:54 BST 2020
+base.0=/Users/farid/Documents/Flutter_Apps/mi_card_flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
