@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "90317490212",
+    "firebase_url": "https://flash-chat-b12c9.firebaseio.com",
+    "project_id": "flash-chat-b12c9",
+    "storage_bucket": "flash-chat-b12c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90317490212:android:0dcb841b0760dbe59e30b1",
+        "android_client_info": {
+          "package_name": "co.faridelaouadi.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90317490212-fkvf1jfim4ke2jfv5uqmnc73gae6p69k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKVARi3tizSLYC_0qZNShwuWrZN_y_cD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90317490212-fkvf1jfim4ke2jfv5uqmnc73gae6p69k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
